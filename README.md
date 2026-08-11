@@ -1,265 +1,378 @@
-# 👾 Dr. Necrotix Profile README
-
-A reusable GitHub Profile README template created by **Dr.Necrotix [NIKO]**.
-
-Use it as a starting point for building a clean developer profile with social links, technology badges, featured projects, GitHub statistics and customizable content sections.
-
-> This repository is a **GitHub Profile README template**. It is not a WordPress plugin and does not provide WordPress shortcodes.
-
----
-
-## ✨ Features
-
-- Clean GitHub profile layout
-- Social and website badges
-- About Me section
-- Technology / tools section
-- Featured projects
-- GitHub statistics cards
-- GitHub streak statistics
-- Profile view counter
-- Easy Markdown customization
-- Ready to use as a GitHub repository template
-
----
-
-## 🚀 Quick Start
-
-### Option 1 — Use this repository as a template
-
-1. Click **Use this template** at the top of this repository.
-2. Choose **Create a new repository**.
-3. For a GitHub profile README, name the new repository exactly the same as your GitHub username.
-
-Example:
-
-```text
-GitHub username: exampleuser
-Repository name: exampleuser
-```
-
-4. Make the repository **Public**.
-5. Open `README.md`.
-6. Replace the example information with your own details.
-7. Commit the changes.
-
-GitHub will automatically display that README on your profile page.
-
-### Option 2 — Copy only the parts you need
-
-You do not need to use the entire template. Open `README.md`, copy the desired section and paste it into your own profile README.
-
----
-
-# 🧩 Reusable README Snippets
-
-The blocks below work like reusable components. Copy the snippet you want and replace the example values.
-
-## Profile heading
-
-```md
 <div align="center">
 
-# 👾 Your Name
+# 👾 GitHub Profile README Template
 
-### Developer • Designer • Creator
+### Build a polished GitHub profile without starting from scratch.
+
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=profile-readme&template_owner=drnecrotix)
+[![GitHub](https://img.shields.io/badge/Author-Dr.Necrotix-181717?style=for-the-badge&logo=github)](https://github.com/drnecrotix)
+[![License](https://img.shields.io/badge/License-Unlicense-blue?style=for-the-badge)](LICENSE)
+
+A reusable collection of **GitHub Profile README components** with copy-and-paste examples and live previews.
 
 </div>
-```
 
-Change:
-
-- `Your Name`
-- the subtitle
-- the emoji if desired
+> [!NOTE]
+> This is a **GitHub Profile README template**, not a WordPress plugin. The examples below are reusable Markdown/HTML snippets rather than WordPress shortcodes.
 
 ---
 
-## Social badges
+## 📚 Table of Contents
 
-```md
-[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
-[![Website](https://img.shields.io/badge/Website-example.com-0A66C2?style=for-the-badge)](https://example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-```
+- [What you get](#-what-you-get)
+- [Quick start](#-quick-start)
+- [Profile header](#-profile-header)
+- [Social badges](#-social-badges)
+- [About Me](#-about-me)
+- [Tech stack](#-tech-stack)
+- [Featured projects](#-featured-projects)
+- [GitHub statistics](#-github-statistics)
+- [Profile views](#-profile-views)
+- [Images and layout](#-images-and-layout)
+- [Complete profile example](#-complete-profile-example)
+- [Troubleshooting](#-troubleshooting)
 
-Replace every `USERNAME` and example URL with your own information.
+---
 
-### Badge structure
+## ✨ What you get
 
-A Shields.io badge normally follows this format:
+This template gives you reusable building blocks for:
+
+- profile headers and introductions;
+- website and social badges;
+- About Me sections;
+- technology icons and stack lists;
+- featured project cards;
+- GitHub statistics and language cards;
+- contribution streaks;
+- profile view counters;
+- centered layouts, images and clickable graphics.
+
+Every major component below contains both **the code** and **a live preview**, so you can see what it looks like before adding it to your profile.
+
+---
+
+# 🚀 Quick Start
+
+## 1. Create your profile repository
+
+Click **Use this template** → **Create a new repository**.
+
+For GitHub to display a README on your profile, the repository name must be **exactly the same as your GitHub username**.
 
 ```text
-https://img.shields.io/badge/LABEL-MESSAGE-COLOR
+GitHub username: octocat
+Repository name: octocat
 ```
 
-Example:
+The repository should be public and contain a `README.md` file in its default branch.
 
-```md
-![My Project](https://img.shields.io/badge/My_Project-Active-success)
+## 2. Edit the template
+
+Open `README.md`, click the edit button and replace the example values with your own:
+
+```text
+YOUR_NAME
+USERNAME
+YOUR_WEBSITE
+REPOSITORY
+PROJECT_NAME
 ```
+
+## 3. Preview before saving
+
+Use GitHub's **Preview** tab while editing the README. This is the easiest way to check spacing, links, badges and images before committing your changes.
+
+## 4. Commit
+
+Save the changes. GitHub will render the README automatically on your profile.
+
+> [!TIP]
+> You do not need to use every component. A shorter profile with useful information is usually easier to read than a page filled with widgets.
 
 ---
 
-## About Me section
+# 👤 Profile Header
 
-```md
-## 🧬 About Me
+A centered header gives visitors an immediate introduction.
 
-I'm **Your Name**, a developer and digital creator focused on building useful projects and experimenting with new technologies.
-
-- 🔭 Working on **Project Name**
-- 🧩 Building **plugins and tools**
-- 🤖 Interested in **automation and AI**
-- 🌐 Working with **web technologies**
-```
-
-Edit or remove any lines you do not need.
-
----
-
-## Technology icons
-
-This template uses **Skill Icons**.
+### Code
 
 ```html
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github&perline=5" alt="Tech stack" />
+# 👋 Hi, I'm Alex
+
+### Developer • Designer • Open-source enthusiast
+
+I build useful tools and enjoy learning new technologies.
 
 </div>
 ```
 
-### Adding or removing technologies
+### 👀 Preview
 
-Edit the value after:
+<div align="center">
 
-```text
-i=
+# 👋 Hi, I'm Alex
+
+### Developer • Designer • Open-source enthusiast
+
+I build useful tools and enjoy learning new technologies.
+
+</div>
+
+### Customize
+
+Replace the name, subtitle and description. You can also remove the emoji or use one that better represents your profile.
+
+---
+
+# 🔗 Social Badges
+
+Badges provide compact links to your profiles, portfolio and community pages.
+
+### Code
+
+```md
+[![GitHub](https://img.shields.io/badge/GitHub-drnecrotix-181717?style=for-the-badge&logo=github)](https://github.com/drnecrotix)
+[![Website](https://img.shields.io/badge/Website-BG--GAMER-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bg-gamer.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/)
 ```
 
-Example:
+### 👀 Preview
+
+[![GitHub](https://img.shields.io/badge/GitHub-drnecrotix-181717?style=for-the-badge&logo=github)](https://github.com/drnecrotix)
+[![Website](https://img.shields.io/badge/Website-BG--GAMER-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bg-gamer.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/)
+
+### How a badge works
+
+```text
+https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=LOGO
+```
+
+| Part | Purpose | Example |
+| --- | --- | --- |
+| `LABEL` | Left side of the badge | `GitHub` |
+| `MESSAGE` | Main badge text | `drnecrotix` |
+| `COLOR` | Badge color | `181717` |
+| `style` | Badge appearance | `for-the-badge` |
+| `logo` | Optional logo | `github` |
+| `logoColor` | Optional logo color | `white` |
+
+> [!TIP]
+> Spaces inside Shields.io badge text are commonly written as `_` or `%20`. A literal hyphen in badge text may need to be doubled as `--`.
+
+---
+
+# 🧬 About Me
+
+Keep this section short and focused on what you build, what you are learning and what visitors can find in your repositories.
+
+### Code
+
+```md
+## 🧬 About Me
+
+I'm **Alex**, a developer who enjoys building practical web applications and open-source tools.
+
+- 🔭 Currently working on **Project Nova**
+- 🌱 Learning **TypeScript and Cloudflare Workers**
+- 🧩 Building **WordPress plugins and integrations**
+- 🤖 Interested in **automation and AI-assisted development**
+- 💬 Ask me about **JavaScript, PHP and APIs**
+```
+
+### 👀 Preview
+
+## 🧬 About Me
+
+I'm **Alex**, a developer who enjoys building practical web applications and open-source tools.
+
+- 🔭 Currently working on **Project Nova**
+- 🌱 Learning **TypeScript and Cloudflare Workers**
+- 🧩 Building **WordPress plugins and integrations**
+- 🤖 Interested in **automation and AI-assisted development**
+- 💬 Ask me about **JavaScript, PHP and APIs**
+
+---
+
+# 🛠️ Tech Stack
+
+## Skill Icons
+
+[Skill Icons](https://skillicons.dev/) can display many development tools in one compact image.
+
+### Code
+
+```html
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github&perline=5" alt="Tech stack" />
+</div>
+```
+
+### 👀 Preview
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github&perline=5" alt="Tech stack" />
+</div>
+
+### Customize the icons
+
+The list after `i=` controls which icons are shown:
 
 ```text
 i=html,css,js,react,php
 ```
 
-The `perline` parameter controls how many icons appear on each row:
+`perline` controls the maximum number of icons on each row:
 
 ```text
 &perline=5
 ```
 
-Example with 8 icons per row:
+For example:
 
 ```text
-&perline=8
+https://skillicons.dev/icons?i=html,css,js,react,php&perline=5
 ```
 
----
+## Simple text stack
 
-## Technology text list
+If you prefer a lighter README without external images:
+
+### Code
 
 ```md
 `JavaScript` · `TypeScript` · `React` · `PHP` · `WordPress` · `MySQL`
 ```
 
-Simply replace the technology names.
+### 👀 Preview
+
+`JavaScript` · `TypeScript` · `React` · `PHP` · `WordPress` · `MySQL`
 
 ---
 
-## Featured project
+# 🚀 Featured Projects
+
+Show a small selection of projects that best represent your work. A short explanation is more useful than listing every repository.
+
+### Code
 
 ```md
-### 🚀 [Project Name](https://github.com/USERNAME/REPOSITORY)
-Short description explaining what the project does.
+### 🚀 [Project Nova](https://github.com/USERNAME/project-nova)
 
-**Stack:** JavaScript · React · Node.js
+A lightweight dashboard for managing community services and integrations.
+
+**Highlights:** API integrations · Responsive dashboard · Automation
+
+**Stack:** TypeScript · React · Node.js
 ```
 
-Duplicate the block for additional projects.
+### 👀 Preview
+
+### 🚀 [Project Nova](https://github.com/drnecrotix/profile-readme)
+
+A lightweight dashboard for managing community services and integrations.
+
+**Highlights:** API integrations · Responsive dashboard · Automation
+
+**Stack:** TypeScript · React · Node.js
+
+Duplicate this block for each project you want to feature.
 
 ---
 
 # 📊 GitHub Statistics
 
-## GitHub stats card
+These cards are generated by third-party services. Replace `USERNAME` with your GitHub username.
+
+## GitHub Stats
+
+### Code
 
 ```html
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=drnecrotix&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
 ```
 
-Replace:
+### 👀 Live Preview
 
-```text
-USERNAME
-```
+<img src="https://github-readme-stats.vercel.app/api?username=drnecrotix&show_icons=true&hide_border=true&theme=github_dark" alt="Dr. Necrotix GitHub stats" />
 
-with your GitHub username.
+### Useful parameters
 
-### Common parameters
+| Parameter | Example | Purpose |
+| --- | --- | --- |
+| `username` | `drnecrotix` | GitHub account to display |
+| `show_icons` | `true` | Shows statistic icons |
+| `hide_border` | `true` | Removes the card border |
+| `theme` | `github_dark` | Changes the visual theme |
 
-```text
-show_icons=true
-hide_border=true
-theme=github_dark
-```
-
-Parameters are joined using `&`.
-
-Example:
+Parameters after the first one are joined with `&`:
 
 ```text
 ?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark
 ```
 
----
+## Most Used Languages
 
-## Most used languages
+### Code
 
 ```html
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnecrotix&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
 ```
 
-Useful parameter:
+### 👀 Live Preview
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnecrotix&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+
+`layout=compact` creates a smaller language card that works well beside the main statistics card.
+
+## GitHub Streak
+
+### Code
+
+```html
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+```
+
+### 👀 Live Preview
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+> [!IMPORTANT]
+> Statistics cards are provided by external services. Availability, supported parameters and caching behavior can change independently of this repository.
+
+---
+
+# 👁️ Profile Views
+
+### Code
+
+```html
+<img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
+```
+
+### 👀 Live Preview
+
+<img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
+
+You can customize the displayed label:
 
 ```text
-layout=compact
-```
-
-This displays languages in a smaller compact card.
-
----
-
-## GitHub streak
-
-```html
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-```
-
-Replace `USERNAME` with your GitHub username.
-
----
-
-## Profile views
-
-```html
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&style=flat" alt="Profile views" />
-```
-
-Available values you may customize include:
-
-```text
-username=USERNAME
 label=Profile%20Views
-style=flat
 ```
+
+`%20` represents a space in a URL.
 
 ---
 
-# 🎨 Layout Helpers
+# 🎨 Images and Layout
 
 ## Center content
+
+### Code
 
 ```html
 <div align="center">
@@ -269,169 +382,250 @@ Your content here
 </div>
 ```
 
-Useful for:
+### 👀 Preview
 
-- headings
-- badges
-- statistics
-- images
-- icons
+<div align="center">
 
----
+**This text is centered.**
 
-## Add a separator
+</div>
+
+This pattern is useful for headers, badges, icons and statistics.
+
+## Add an image
+
+```html
+<img src="IMAGE_URL" alt="Useful image description" />
+```
+
+With a fixed width:
+
+```html
+<img width="500" src="IMAGE_URL" alt="Useful image description" />
+```
+
+## Make an image clickable
+
+### Code
+
+```html
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="Visit GitHub" />
+</a>
+```
+
+### 👀 Preview
+
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/Visit-GitHub-181717?style=for-the-badge&logo=github" alt="Visit GitHub" />
+</a>
+
+## Separator
+
+### Code
 
 ```md
 ---
 ```
 
-This creates a horizontal divider.
+### 👀 Preview
 
 ---
 
-## Add line spacing
+## Manual line break
 
 ```html
 <br />
 ```
 
-Use it sparingly. Too many `<br />` tags can create large empty spaces in a profile README.
+Use manual breaks only when necessary. Excessive `<br />` elements are a common cause of awkward empty space in profile READMEs.
 
 ---
 
-## Add an image
+# 🔗 About Opening Links in a New Tab
+
+You may see HTML examples elsewhere using:
 
 ```html
-<img src="IMAGE_URL" alt="Description" />
+<a href="https://example.com" target="_blank">Example</a>
 ```
 
-With a custom width:
+However, GitHub sanitizes README HTML and does not provide a dependable way for README authors to force links to open in a new tab.
 
-```html
-<img width="500" src="IMAGE_URL" alt="Description" />
-```
-
----
-
-## Add a clickable image
-
-```html
-<a href="https://example.com">
-  <img src="IMAGE_URL" alt="Example" />
-</a>
-```
-
-This is useful when technology icons, project logos or banners should open another website when clicked.
-
----
-
-# 🔗 Open Links in a New Tab
-
-GitHub sanitizes rendered README HTML and does **not reliably support forcing links to open in a new browser tab** with `target="_blank"`.
-
-For maximum GitHub compatibility, use standard links:
-
-```html
-<a href="https://example.com">Example</a>
-```
-
-or Markdown:
+Use normal links for maximum compatibility:
 
 ```md
 [Example](https://example.com)
 ```
 
-The visitor's browser/GitHub interface determines how the link is opened.
+or:
 
----
-
-# 🛠️ Create Your Own Profile
-
-A recommended profile structure is:
-
-```text
-Header
-↓
-Social links
-↓
-About Me
-↓
-Tech & Tools
-↓
-Featured Projects
-↓
-GitHub Stats
-↓
-Interests
-↓
-Contact / Social links
+```html
+<a href="https://example.com">Example</a>
 ```
 
-Keep the most important information near the top because visitors usually scan a profile before reading it in detail.
+Visitors can still use their browser's normal new-tab controls.
 
 ---
 
-# ⚠️ Common Problems
+# 🧱 Complete Profile Example
 
-## The README does not appear on my GitHub profile
+The following example combines the most useful components into a small profile. Copy it and replace the example values.
 
-Make sure:
+### Code
 
-1. The repository name is exactly your GitHub username.
-2. The repository is public.
-3. The file is named `README.md`.
-4. `README.md` exists in the repository's default branch.
+```md
+<div align="center">
+
+# 👋 Hi, I'm Alex
+
+### Full-stack Developer • Open-source Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
+[![Website](https://img.shields.io/badge/Website-Portfolio-0A66C2?style=for-the-badge)](https://example.com)
+
+</div>
+
+## 🧬 About Me
+
+I build practical web applications, integrations and open-source tools.
+
+- 🔭 Working on **Project Nova**
+- 🌱 Learning **new web technologies**
+- 🤖 Interested in **automation and AI**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github&perline=5" alt="Tech stack" />
+</div>
+
+## 🚀 Featured Project
+
+### [Project Nova](https://github.com/USERNAME/PROJECT)
+A short description of your project and why it is useful.
+
+**Stack:** TypeScript · React · Node.js
+
+## 📊 GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
+</div>
+```
+
+### 👀 Example Result
+
+<div align="center">
+
+# 👋 Hi, I'm Dr. Necrotix
+
+### Developer • WordPress Builder • Digital Creator
+
+[![GitHub](https://img.shields.io/badge/GitHub-drnecrotix-181717?style=for-the-badge&logo=github)](https://github.com/drnecrotix)
+[![Website](https://img.shields.io/badge/Website-BG--GAMER-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://bg-gamer.com/)
+
+</div>
+
+## 🧬 About Me
+
+I build practical web tools, WordPress extensions, integrations and community-focused projects.
+
+- 🔭 Building projects around **BG-GAMER**
+- 🧩 Creating **plugins and integrations**
+- 🤖 Interested in **automation, APIs and AI-assisted development**
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github&perline=5" alt="Tech stack" />
+</div>
 
 ---
 
-## Images are not loading
+# ⚠️ Troubleshooting
+
+<details>
+<summary><strong>My README does not appear on my profile</strong></summary>
 
 Check that:
 
-- the image URL is public;
-- the URL uses HTTPS;
-- the external service is online;
-- the URL has not expired.
+1. the repository name exactly matches your GitHub username;
+2. the repository is public;
+3. the file is named `README.md`;
+4. the README exists in the repository's default branch.
+
+</details>
+
+<details>
+<summary><strong>My images or badges are not loading</strong></summary>
+
+Check that the image URL is public, uses HTTPS and still works when opened directly. External badge/statistics providers may also experience temporary outages.
+
+</details>
+
+<details>
+<summary><strong>My statistics have not updated</strong></summary>
+
+External statistics services commonly cache generated cards. Recent GitHub activity may therefore take time to appear.
+
+</details>
+
+<details>
+<summary><strong>My README has large empty spaces</strong></summary>
+
+Remove unnecessary `<br />` elements and check that HTML containers such as `<div>` and `<p>` are properly closed.
+
+</details>
+
+<details>
+<summary><strong>My link does not open in a new tab</strong></summary>
+
+This is expected. GitHub does not provide README authors with a reliable way to force links to open in a new browser tab. Use normal Markdown or HTML links.
+
+</details>
 
 ---
 
-## GitHub stats are not updating immediately
+# 💡 Recommended Profile Structure
 
-External statistics services may cache results. Changes to your profile or repositories may therefore take some time to appear in generated statistics cards.
-
----
-
-## My README has large empty spaces
-
-Avoid excessive use of:
-
-```html
-<br />
+```text
+Header
+├── Name and short description
+├── Social links
+│
+├── About Me
+├── Tech Stack
+├── Featured Projects
+├── GitHub Statistics
+└── Contact / Social links
 ```
 
-Also verify that HTML containers such as `<div>` and `<p>` are correctly closed.
+Put your strongest information near the top. Visitors should be able to understand **who you are, what you build and where to find your best work** within a few seconds.
 
 ---
 
-# 👨‍💻 Example Author Setup
+# 👨‍💻 Author
 
-The original template is maintained by:
+<div align="center">
 
-**Dr.Necrotix [NIKO]**
+### Dr.Necrotix [NIKO]
 
-- GitHub: [@drnecrotix](https://github.com/drnecrotix)
-- Website: [BG-GAMER](https://bg-gamer.com/)
-- Discord: [BG-GAMER Community](https://discord.bg-gamer.com/)
-- LinkedIn: [Dr. Necrotix](https://www.linkedin.com/in/necrotix/)
-- Instagram: [@dr.necrotix](https://instagram.com/dr.necrotix)
+[![GitHub](https://img.shields.io/badge/GitHub-drnecrotix-181717?style=flat-square&logo=github)](https://github.com/drnecrotix)
+[![Website](https://img.shields.io/badge/BG--GAMER-Website-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://bg-gamer.com/)
+[![Discord](https://img.shields.io/badge/BG--GAMER-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.bg-gamer.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dr.Necrotix-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/necrotix/)
+[![Instagram](https://img.shields.io/badge/Instagram-@dr.necrotix-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dr.necrotix)
+
+</div>
 
 ---
 
 ## 📄 License
 
-This repository is released under **The Unlicense**.
+Released under **The Unlicense**. You may copy, modify and reuse this template for your own GitHub profile.
 
-You may copy, modify and reuse the template for your own GitHub profile.
+If this template helped you, consider giving the repository a ⭐ so other users can discover it.
 
 ---
 
