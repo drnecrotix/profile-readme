@@ -12,6 +12,9 @@
 > [!TIP]
 > This page shows fully rendered profile styles. Choose the one that matches your identity, then use the main [README](README.md) to copy and customize the components.
 
+> [!IMPORTANT]
+> The gallery no longer relies on the public `github-readme-stats.vercel.app` endpoint. Its own maintainers describe the public instance as best-effort and recommend GitHub Actions or self-hosting for reliable Stats and Top Languages cards. The previews below therefore use components that render more consistently by default.
+
 ## Choose a style
 
 - [Minimal](#-minimal)
@@ -94,12 +97,15 @@ A modern dashboard for managing services, integrations and automation.
 
 **Stack:** TypeScript · React · Node.js · APIs
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=drnecrotix&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnecrotix&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
 
 </div>
 
@@ -202,7 +208,7 @@ Tools for managing players, roles, notifications and server-side automation.
 
 # 🚀 Advanced
 
-Best for users who want a complete, polished profile with identity, projects, stack and statistics.
+Best for users who want a complete, polished profile with identity, projects, stack and activity.
 
 <div align="center">
 
@@ -252,22 +258,21 @@ WordPress plugin for displaying a responsive Steam Curator follow widget.
 ### 🤖 [Discord Bot v3](https://github.com/drnecrotix/Discord-Bot-v3)
 Custom Discord bot project focused on community automation and server functionality.
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=drnecrotix&show_icons=true&hide_border=true&theme=github_dark" alt="Dr. Necrotix GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnecrotix&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
 
 </div>
+
+### Want Stats + Top Languages cards too?
+
+For reliable cards, deploy **GitHub Readme Stats** with GitHub Actions or your own hosted instance, then use your own generated/static SVG URLs. Avoid depending on the shared public Vercel endpoint for production profile layouts.
 
 ---
 
@@ -282,7 +287,7 @@ Custom Discord bot project focused on community automation and server functional
 | **Advanced** | Multi-project personal brands | High | Most detailed |
 
 > [!TIP]
-> Start with the simplest style that communicates what you do. You can always add statistics, badges and more sections later.
+> Start with the simplest style that communicates what you do. You can always add more sections later.
 
 ---
 
