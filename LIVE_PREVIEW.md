@@ -2,7 +2,7 @@
 
 # 👀 Live Preview Gallery
 
-### Pick a style, preview it, then copy the matching layout from the main README.
+### Pick a style, preview individual components, then build your own GitHub profile.
 
 [![Back to README](https://img.shields.io/badge/←_Back_to-README-181717?style=for-the-badge&logo=github)](README.md)
 [![Use this template](https://img.shields.io/badge/Use_this-template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=profile-readme&template_owner=drnecrotix)
@@ -10,24 +10,17 @@
 </div>
 
 > [!TIP]
-> This page shows fully rendered profile styles. Choose the one that matches your identity, then use the main [README](README.md) to copy and customize the components.
+> This gallery is intentionally visual. Use it to decide what you want your profile to look like, then copy the matching snippets from the main [README](README.md).
 
-> [!IMPORTANT]
-> The gallery no longer relies on the public `github-readme-stats.vercel.app` endpoint. Its own maintainers describe the public instance as best-effort and recommend GitHub Actions or self-hosting for reliable Stats and Top Languages cards. The previews below therefore use components that render more consistently by default.
+## 🧭 Gallery
 
-## Choose a style
+**Profile styles:** [Minimal](#-minimal) · [Developer](#-developer) · [Creative](#-creative) · [Gaming](#-gaming) · [Advanced](#-advanced)
 
-- [Minimal](#-minimal)
-- [Developer](#-developer)
-- [Creative](#-creative)
-- [Gaming](#-gaming)
-- [Advanced](#-advanced)
+**Extra components:** [Typing Header](#️-typing-header) · [Status Badges](#-status-badges) · [Contact CTA](#-contact-cta) · [Current Focus](#-current-focus) · [Skills by Category](#-skills-by-category) · [Project Table](#-project-table) · [Collapsible Section](#-collapsible-section) · [Quote](#-quote) · [Support](#-support--sponsor) · [Footer](#-footer)
 
 ---
 
 # ⚪ Minimal
-
-Best for users who want a clean, simple profile with almost no visual noise.
 
 <div align="center">
 
@@ -51,16 +44,9 @@ I build practical software and enjoy turning ideas into useful products.
 
 `JavaScript` · `TypeScript` · `React` · `Node.js` · `Git`
 
-## Selected Work
-
-### [Project Nova](https://github.com/drnecrotix/profile-readme)
-A lightweight project focused on usability, clean structure and maintainable code.
-
 ---
 
 # 💻 Developer
-
-Best for programmers who want projects, technologies and GitHub activity to be the focus.
 
 <div align="center">
 
@@ -78,42 +64,27 @@ Best for programmers who want projects, technologies and GitHub activity to be t
 I build web applications, integrations and developer tools with a focus on practical solutions.
 
 - 🔭 Currently building **Project Nova**
-- 🌱 Exploring **Cloudflare Workers and TypeScript**
+- 🌱 Exploring **TypeScript and edge development**
 - 🧩 Creating **plugins, APIs and integrations**
 - 🤖 Interested in **automation and AI-assisted development**
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,mysql,git,github,docker,cloudflare&perline=6" alt="Developer tech stack" />
-
 </div>
 
-## 🚀 Featured Project
-
-### [Project Nova](https://github.com/drnecrotix/profile-readme)
-A modern dashboard for managing services, integrations and automation.
-
-**Stack:** TypeScript · React · Node.js · APIs
-
-## 📊 GitHub Activity
+## 📊 Activity
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
 <br />
-
 <img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
-
 </div>
 
 ---
 
 # 🎨 Creative
-
-Best for designers, digital creators, artists and multidisciplinary profiles.
 
 <div align="center">
 
@@ -129,38 +100,20 @@ Best for designers, digital creators, artists and multidisciplinary profiles.
 
 ## 🌈 What I Create
 
-I combine design and development to create visual identities, websites, digital experiences and experimental projects.
-
 - 🎨 Brand and visual design
 - 🖥️ UI and web design
 - ✏️ Digital illustration
-- ⚡ Interactive front-end experiments
+- ⚡ Interactive front-end experiences
 
 ## 🧰 Creative Toolkit
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,html,css,js,react,github&perline=8" alt="Creative tools" />
-
 </div>
-
-## ✨ Featured Work
-
-### Visual Identity System
-A flexible brand system designed for digital communities and online projects.
-
-**Tools:** Figma · Photoshop · Illustrator
-
-### Interactive Portfolio
-A responsive portfolio combining animation, design and front-end development.
-
-**Stack:** HTML · CSS · JavaScript · React
 
 ---
 
 # 🎮 Gaming
-
-Best for streamers, gaming communities, modders and game-related developers.
 
 <div align="center">
 
@@ -176,39 +129,18 @@ Best for streamers, gaming communities, modders and game-related developers.
 
 ## 🕹️ About
 
-I build gaming tools, server integrations and community features while experimenting with mods and automation.
-
 - 🎮 Community servers and events
 - 🧩 Mods, plugins and integrations
 - 🤖 Discord automation
 - 🛠️ Server tooling and dashboards
 
-## ⚙️ Tools
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,js,nodejs,php,mysql,docker,discord,github&perline=8" alt="Gaming tools" />
-
-</div>
-
-## 🏆 Featured Project
-
-### Community Server Toolkit
-Tools for managing players, roles, notifications and server-side automation.
-
-**Focus:** Discord · APIs · Server management · Automation
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
-
 </div>
 
 ---
 
 # 🚀 Advanced
-
-Best for users who want a complete, polished profile with identity, projects, stack and activity.
 
 <div align="center">
 
@@ -236,47 +168,194 @@ I'm **Niko**, also known online as **Dr. Necrotix** — a developer and digital 
 ## 🛠️ Tech & Tools
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,php,mysql,wordpress,git,github,vscode,cloudflare,docker,figma,blender&perline=8" alt="Advanced tech stack" />
-
 </div>
-
-`TypeScript` · `JavaScript` · `React` · `Node.js` · `PHP` · `WordPress` · `MySQL` · `REST APIs` · `Cloudflare` · `Docker` · `Automation`
-
-## 🚀 Featured Projects
-
-### 🔎 [SIGMA](https://github.com/drnecrotix/sigma)
-Open-data platform for exploring Bulgarian public procurement data and relationships between institutions, contracts and companies.
-
-**Stack:** TypeScript · React Router · Cloudflare Workers · D1 · GitHub Actions
-
-### 🎮 [BG-GAMER Steam Curator Widget](https://github.com/drnecrotix/wp-steam-curator-plugin)
-WordPress plugin for displaying a responsive Steam Curator follow widget.
-
-**Stack:** PHP · WordPress · JavaScript
-
-### 🤖 [Discord Bot v3](https://github.com/drnecrotix/Discord-Bot-v3)
-Custom Discord bot project focused on community automation and server functionality.
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=drnecrotix&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-
 <br />
-
 <img src="https://komarev.com/ghpvc/?username=drnecrotix&label=Profile%20Views&style=flat" alt="Profile views" />
-
 </div>
-
-### Want Stats + Top Languages cards too?
-
-For reliable cards, deploy **GitHub Readme Stats** with GitHub Actions or your own hosted instance, then use your own generated/static SVG URLs. Avoid depending on the shared public Vercel endpoint for production profile layouts.
 
 ---
 
-# 🧭 Which one should I choose?
+# ⌨️ Typing Header
+
+Animated typing headers are useful for a short rotating introduction.
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-stack+Developer;Open-source+Enthusiast;Building+useful+things)](https://git.io/typing-svg)
+
+</div>
+
+**Good for:** roles, interests, current focus or a short profile slogan.
+
+---
+
+# 🟢 Status Badges
+
+Use badges to communicate useful information immediately.
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Status-Building-2ea44f?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open_Source-♥-red?style=for-the-badge&logo=github)
+![Available](https://img.shields.io/badge/Collaboration-Open-0969da?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/Powered_by-Coffee-6f4e37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+
+</div>
+
+They can represent **project status, availability, interests, location, preferred tools or community roles**.
+
+---
+
+# 📬 Contact CTA
+
+A dedicated call-to-action works well near the bottom of a profile.
+
+<div align="center">
+
+## 📬 Let's build something together
+
+Have an idea, open-source project or interesting collaboration?
+
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+A simple status board tells visitors what you are doing right now.
+
+| | Current focus |
+| --- | --- |
+| 🔭 | Building **Project Nova** |
+| 🌱 | Learning **TypeScript & Cloudflare** |
+| 🧪 | Experimenting with **AI automation** |
+| 🤝 | Open to **open-source collaboration** |
+| 💬 | Ask me about **WordPress, APIs & JavaScript** |
+
+---
+
+# 🧰 Skills by Category
+
+Large technology lists are easier to scan when grouped by purpose.
+
+| Category | Technologies |
+| --- | --- |
+| **Frontend** | `HTML` `CSS` `JavaScript` `TypeScript` `React` |
+| **Backend** | `Node.js` `PHP` `REST APIs` |
+| **Data** | `MySQL` `SQLite` |
+| **Infrastructure** | `Docker` `Cloudflare` `GitHub Actions` |
+| **CMS** | `WordPress` |
+| **Creative** | `Figma` `Photoshop` `Blender` |
+
+---
+
+# 🗂️ Project Table
+
+For several projects, a compact table is easier to browse than long descriptions.
+
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
+| **Project Nova** | Community dashboard | React · Node.js | 🟢 Active |
+| **Plugin Kit** | WordPress extension toolkit | PHP · JS | 🟡 Development |
+| **Bot Core** | Community automation | Node.js · APIs | 🟢 Active |
+
+---
+
+# 📦 Collapsible Section
+
+`<details>` lets you keep optional information without making the profile too long.
+
+<details>
+<summary><strong>📚 Click to see more about me</strong></summary>
+
+<br />
+
+- I enjoy open-source projects.
+- I build community tools and integrations.
+- I like experimenting with new development workflows.
+- I combine technical and creative work.
+
+</details>
+
+<details>
+<summary><strong>🧪 Click to see experimental projects</strong></summary>
+
+<br />
+
+| Experiment | Description |
+| --- | --- |
+| AI Assistant | Automated project helper |
+| Dashboard Lab | UI experiments |
+| API Playground | Integration prototypes |
+
+</details>
+
+---
+
+# 💬 Quote
+
+A small quote or personal principle can add personality without dominating the profile.
+
+> **Build things that solve real problems. Keep learning, keep improving.**
+
+Or center it:
+
+<div align="center">
+
+### “Build. Break. Learn. Improve. Repeat.”
+
+</div>
+
+---
+
+# ❤️ Support / Sponsor
+
+Useful for maintainers, creators and open-source developers.
+
+<div align="center">
+
+### If my work helps you
+
+⭐ Star a repository · 🐛 Report an issue · 🤝 Contribute · 📣 Share the project
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Support-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/)
+
+</div>
+
+> Use only services you actually have configured. Replace the example links before publishing.
+
+---
+
+# 🧱 Footer
+
+A footer can finish the profile without adding another large section.
+
+<div align="center">
+
+---
+
+### Thanks for visiting 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=drnecrotix&label=Visitors&style=flat-square)
+
+**Made with Markdown, curiosity and too much coffee.**
+
+</div>
+
+---
+
+# 🧭 Which style should I choose?
 
 | Style | Best for | Visual weight | Setup |
 | --- | --- | --- | --- |
@@ -284,10 +363,10 @@ For reliable cards, deploy **GitHub Readme Stats** with GitHub Actions or your o
 | **Developer** | Programmers and open-source contributors | Medium | Easy |
 | **Creative** | Designers and digital creators | Medium | Easy |
 | **Gaming** | Gamers, modders and communities | Medium | Easy |
-| **Advanced** | Multi-project personal brands | High | Most detailed |
+| **Advanced** | Multi-project personal brands | High | Detailed |
 
 > [!TIP]
-> Start with the simplest style that communicates what you do. You can always add more sections later.
+> Mix components instead of copying everything. A good profile should communicate who you are and what you build before it starts showing decorative widgets.
 
 ---
 
