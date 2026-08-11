@@ -5,6 +5,7 @@
 ### Pick a style, preview individual components, then build your own GitHub profile.
 
 [![Back to README](https://img.shields.io/badge/←_Back_to-README-181717?style=for-the-badge&logo=github)](README.md)
+[![Optional Widgets](https://img.shields.io/badge/🧩_Optional-Widgets-8250df?style=for-the-badge)](OPTIONAL_WIDGETS.md)
 [![Use this template](https://img.shields.io/badge/Use_this-template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=profile-readme&template_owner=drnecrotix)
 
 </div>
@@ -17,6 +18,8 @@
 **Profile styles:** [Minimal](#-minimal) · [Developer](#-developer) · [Creative](#-creative) · [Gaming](#-gaming) · [Advanced](#-advanced)
 
 **Extra components:** [Typing Header](#️-typing-header) · [Status Badges](#-status-badges) · [Contact CTA](#-contact-cta) · [Current Focus](#-current-focus) · [Skills by Category](#-skills-by-category) · [Project Table](#-project-table) · [Collapsible Section](#-collapsible-section) · [Quote](#-quote) · [Support](#-support--sponsor) · [Footer](#-footer)
+
+**Dynamic widgets:** [Trophies](#-github-trophies-preview) · [Activity Graph](#-activity-graph-preview) · [Dynamic Quote](#-dynamic-quote-preview) · [Full setup guide](OPTIONAL_WIDGETS.md)
 
 ---
 
@@ -337,6 +340,42 @@ Useful for maintainers, creators and open-source developers.
 
 ---
 
+# 🏆 GitHub Trophies Preview
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=drnecrotix&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+This widget is optional because it depends on an external service. The full code and customization notes are in [Optional Widgets](OPTIONAL_WIDGETS.md#-github-trophies).
+
+---
+
+# 📈 Activity Graph Preview
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drnecrotix&theme=github-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+The activity graph visualizes recent GitHub activity. See [Optional Widgets](OPTIONAL_WIDGETS.md#-activity-graph) for the copyable code.
+
+---
+
+# 💭 Dynamic Quote Preview
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+</div>
+
+Dynamic quotes are purely decorative. See [Optional Widgets](OPTIONAL_WIDGETS.md#-dynamic-quote) for themes and a custom-quote example.
+
+---
+
 # 🧱 Footer
 
 A footer can finish the profile without adding another large section.
@@ -375,6 +414,7 @@ A footer can finish the profile without adding another large section.
 ## Ready to build your own?
 
 [![Read the guide](https://img.shields.io/badge/Read_the-full_guide-0969da?style=for-the-badge&logo=github)](README.md)
+[![Optional Widgets](https://img.shields.io/badge/Explore-Optional_Widgets-8250df?style=for-the-badge)](OPTIONAL_WIDGETS.md)
 [![Use this template](https://img.shields.io/badge/Use_this-template-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/new?template_name=profile-readme&template_owner=drnecrotix)
 
 </div>
